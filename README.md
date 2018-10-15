@@ -1,5 +1,5 @@
 # Funk-Temperatur-, Feuchte- und Helligkeits-Sensor
-Dieser Funk-Sensor überträgt die Temperatur- und relative Feuchte eines Sensors vom Typ SHT21.
+Dieser Funk-Sensor überträgt die Werte der Temperatur und relativen Feuchte eines Sensors vom Typ SHT21.
 Außerdem wird der Helligkeitswert eines Sensors vom Typ TSL4531 übertragen. Der Messbereich beträgt 0 bis 220000 Lux.
 Verwendet wird ein Funkprotokoll der WS2000/WS7000-Serie. Dieses Protokoll kann vom SIGNALduino oder auch CUL empfangen und in FHEM dekodiert werden.
 Zum Einsatz kommt ein ATMega48. Die Software wurde unter BASCOM erstellt.
