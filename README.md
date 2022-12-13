@@ -7,4 +7,5 @@ Zum Einsatz kommt ein ATMega48. Die Software wurde unter BASCOM erstellt.
 Sowohl für den Temperatur- und Feuchtesensor als auch für den Helligkeitssensor können individuelle Adressen im Bereich von 0 bis 7 mittels Jumpern eingestellt werden.
 
 Versorgt wird der Sensor von 2 Zellen vom Typ AA. Die Stromaufnahme liegt im Bereich weniger Mikroampere.
-Bei mir funktioniert der Sensor bereits seit über 5 Jahren mit dem ersten Batteriesatz.
+Der erste Satz Mignonzellen musste nach etwa 7,5 Jahren ausgetauscht werden, weil Temperatur- und Feuchtemessung aussetzte.
+Die Batteriespannung lag zu diesem Zeitpunkt bei ca. 2,0 Volt. Das passt auch ganz gut zu den Angaben im Datenblatt des SHT21, wo als minimale Versorgungsspannung 2,1 Volt angegeben werden.
